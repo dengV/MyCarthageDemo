@@ -11,6 +11,7 @@
 @implementation MyCarthageView
 
 - (NSString *)getCarthageSkill {
+    _carthageSkill = @"get skill -> Carthage";
     return _carthageSkill;
 }
 
